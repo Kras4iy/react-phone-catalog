@@ -18,7 +18,7 @@ export const HomePage: React.FC<Props> = ({ products }) => {
           <HotPrice
             products={products}
           />
-          <Category />
+          <Category items={products} />
           <NewModels
             products={products}
           />
