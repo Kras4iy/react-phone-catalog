@@ -1,3 +1,4 @@
-.starter {
-  font-size: 18px;
-}
+@import "/src/styles/utils/normalize.scss";
+@import "/src/styles/utils/_vars";
+@import "/src/styles/utils/fonts";
+@import "/src/styles/container.scss";
