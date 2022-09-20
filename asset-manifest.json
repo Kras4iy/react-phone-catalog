@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3dbcb24e.chunk.css",
+    "main.js": "./static/js/main.9736eadb.chunk.js",
+    "main.js.map": "./static/js/main.9736eadb.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.0cf22e23.chunk.js": "./static/js/2.0cf22e23.chunk.js",
+    "static/js/2.0cf22e23.chunk.js.map": "./static/js/2.0cf22e23.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3dbcb24e.chunk.css.map": "./static/css/main.3dbcb24e.chunk.css.map",
+    "static/js/2.0cf22e23.chunk.js.LICENSE.txt": "./static/js/2.0cf22e23.chunk.js.LICENSE.txt",
+    "static/media/Category.scss": "./static/media/Tablets.8398cebe.jpg",
+    "static/media/Banner.8e14917d.png": "./static/media/Banner.8e14917d.png",
+    "static/media/Withdraw.scss": "./static/media/Close.d99189a5.svg",
+    "static/media/Header.scss": "./static/media/withdraw.1beda4df.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/ItemPage.scss": "./static/media/favorite.674797e4.svg",
+    "static/media/Footer.scss": "./static/media/logo.c9417692.svg",
+    "static/media/Path.scss": "./static/media/pathHome.d4c29e4f.svg",
+    "static/media/Carousel.scss": "./static/media/vector.7365d53e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.0cf22e23.chunk.js",
+    "static/css/main.3dbcb24e.chunk.css",
+    "static/js/main.9736eadb.chunk.js"
+  ]
+}
